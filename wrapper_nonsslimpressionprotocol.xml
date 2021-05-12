@@ -1,0 +1,54 @@
+<VAST version="2.0">
+<Ad id="L39RvL34d0tEmAesMB2P">
+<Wrapper>
+<AdSystem version="1.0">PlayTime</AdSystem>
+<AdTitle>TM House Ad VPAID 0916 (1)</AdTitle>
+<Impression>
+http://stats-tm.everesttech.net/stats/1/imp?sessId=BPN61eK5Q72g0C3dsV8i2Q&amp;paId=L39RvL34d0tEmAesMB2P&amp;dur=30&amp;date=&amp;auth=&amp;page_url=%5Breplace_with_page_url_macro%5D&amp;price=6D4F17F55C87C1BD&amp;bi=B07p2milYsnbTNcsBCCE5aDPBQA3PMnT24WT7YB8XgyV-B1T29aT74c3twntdQDeF4lsMaXCFxCRgX6sG3XmbulGbweqaLfh7WKk1Vuj5EKZhlaVpE5PZ_Ko1ZkAv_sGH4bj&amp;inc=view&amp;did=V7YnOgAABFi5hSyi&amp;didtype=ADVERTISING_ID&amp;vinst=f 
+</Impression>
+<Creatives>
+<Creative id="L39RvL34d0tEmAesMB2P">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+https://stats-tm.everesttech.net/stats/1/pct25?sessId=BPN61eK5Q72g0C3dsV8i2Q&amp;paId=L39RvL34d0tEmAesMB2P&amp;page_url=%5Breplace_with_page_url_macro%5D&amp;pvId=aytcbGZrg420tHl3jjcy&amp;date=&amp;dur=30&amp;auth=&amp;price=6D4F17F55C87C1BD&amp;bi=B07p2milYsnbTNcBCCE5aDPBQA3PMnT24WT7YB8XgyV-B1T29aT74c3twntdQDeF4lsMaXCFxCRgX6sG3XmbulGbweqaLfh7WKk1Vuj5EKZhlaVpE5PZ_Ko1ZkAv_sGH4bj&amp;did=V7YnOgAABFi5hSyi&amp;didtype=ADVERTISING_ID
+</Tracking>
+<Tracking event="midpoint">
+https://stats-tm.everesttech.net/stats/1/pct50?sessId=BPN61eK5Q72g0C3dsV8i2Q&amp;paId=L39RvL34d0tEmAesMB2P&amp;page_url=%5Breplace_with_page_url_macro%5D&amp;pvId=aytcbGZrg420tHl3jjcy&amp;date=&amp;dur=30&amp;auth=&amp;price=6D4F17F55C87C1BD&amp;bi=B07p2milYsnbTNcBCCE5aDPBQA3PMnT24WT7YB8XgyV-B1T29aT74c3twntdQDeF4lsMaXCFxCRgX6sG3XmbulGbweqaLfh7WKk1Vuj5EKZhlaVpE5PZ_Ko1ZkAv_sGH4bj&amp;did=V7YnOgAABFi5hSyi&amp;didtype=ADVERTISING_ID 
+</Tracking>
+<Tracking event="thirdQuartile">
+https://stats-tm.everesttech.net/stats/1/pct75?sessId=BPN61eK5Q72g0C3dsV8i2Q&amp;paId=L39RvL34d0tEmAesMB2P&amp;page_url=%5Breplace_with_page_url_macro%5D&amp;pvId=aytcbGZrg420tHl3jjcy&amp;date=&amp;dur=30&amp;auth=&amp;price=6D4F17F55C87C1BD&amp;bi=B07p2milYsnbTNcBCCE5aDPBQA3PMnT24WT7YB8XgyV-B1T29aT74c3twntdQDeF4lsMaXCFxCRgX6sG3XmbulGbweqaLfh7WKk1Vuj5EKZhlaVpE5PZ_Ko1ZkAv_sGH4bj&amp;did=V7YnOgAABFi5hSyi&amp;didtype=ADVERTISING_ID 
+</Tracking>
+<Tracking event="complete">
+https://stats-tm.everesttech.net/stats/1/pct100?sessId=BPN61eK5Q72g0C3dsV8i2Q&amp;paId=L39RvL34d0tEmAesMB2P&amp;page_url=%5Breplace_with_page_url_macro%5D&amp;pvId=aytcbGZrg420tHl3jjcy&amp;date=&amp;dur=30&amp;auth=&amp;price=6D4F17F55C87C1BD&amp;bi=B07p2milYsnbTNcBCCE5aDPBQA3PMnT24WT7YB8XgyV-B1T29aT74c3twntdQDeF4lsMaXCFxCRgX6sG3XmbulGbweqaLfh7WKk1Vuj5EKZhlaVpE5PZ_Ko1ZkAv_sGH4bj&amp;did=V7YnOgAABFi5hSyi&amp;didtype=ADVERTISING_ID
+</Tracking>
+<Tracking event="complete">
+https://playtime-tm.everesttech.net/audit/e.png?event=comp&amp;mp=BHl5rGqTiOjudeVMQ3sN&amp;cp=FCQPov5lniKVUvAFoJyH&amp;pa=L39RvL34d0tEmAesMB2P&amp;page_url=%5Breplace_with_page_url_macro%5D&amp;rand=470281734
+</Tracking>
+<Tracking event="firstQuartile">
+https://stats-tm.everesttech.net/stats/1/vimp?sessId=BPN61eK5Q72g0C3dsV8i2Q&amp;paId=L39RvL34d0tEmAesMB2P&amp;page_url=%5Breplace_with_page_url_macro%5D&amp;date=&amp;dur=30&amp;auth=&amp;vpct=100&amp;vinst=f&amp;vwbl=f&amp;bi=B07p2milYsnbTNcBCCE5aDPBQA3PMnT24WT7YB8XgyV-B1T29aT74c3twntdQDeF4lsMaXCFxCRgX6sG3XmbulGbweqaLfh7WKk1Vuj5EKZhlaVpE5PZ_Ko1ZkAv_sGH4bj
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+https://stats-tm.everesttech.net/stats/1/ct?sessId=BPN61eK5Q72g0C3dsV8i2Q&amp;paId=L39RvL34d0tEmAesMB2P&amp;page_url=%5Breplace_with_page_url_macro%5D&amp;pvId=aytcbGZrg420tHl3jjcy&amp;sId=0&amp;dur=30&amp;redir=https%3A%2F%2Fwww.tubemogul.com&amp;date=&amp;auth=&amp;price=6D4F17F55C87C1BD&amp;bi=B07p2milYsnbTNcBCCE5aDPBQA3PMnT24WT7YB8XgyV-B1T29aT74c3twntdQDeF4lsMaXCFxCRgX6sG3XmbulGbweqaLfh7WKk1Vuj5EKZhlaVpE5PZ_Ko1ZkAv_sGH4bj&amp;did=V7YnOgAABFi5hSyi&amp;didtype=ADVERTISING_ID 
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="6000" width="400" height="300">
+https://playtime.tubemogul.com/ad_promoted_videos/6882378b-5df8-4635-bc36-90d13a6ca45d.mp4 
+</MediaFile>
+<MediaFile delivery="progressive" type="video/webm" bitrate="6000" width="400" height="300">
+https://playtime.tubemogul.com/ad_promoted_videos/fadf9acd-c835-4cf5-aa76-434a848b06a5.webm 
+</MediaFile>
+<MediaFile delivery="progressive" type="video/x-flv" bitrate="6000" width="640" height="480">
+https://playtime.tubemogul.com/ad_promoted_videos/a6f0dc6c-fc46-467f-9ff9-6c0c8cfb7368.flv 
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</Wrapper>
+</Ad>
+</VAST>
