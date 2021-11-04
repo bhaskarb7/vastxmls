@@ -1,0 +1,59 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast_2.0.1-creativeView.xsd" version="2.0">
+<Ad id="WrapperAdWrapper">
+<Wrapper>
+<AdSystem>WrapperAdSystem</AdSystem>
+<Impression>
+<![CDATA[ https://obo.moatads.com/pixel.gif?e=0&g=0&ac=1&bq=7&f=1&gh=0&hc=0&i=OBO_VAST_WRAPPER1&t=1636055318&de=356706669&vz=356706669&d=26657153%3A5853714%3A317535150%3Avast&bo=undefined&bd=undefined&apif=%5bAPIFRAMEWORKS%5d&zMoatOrigIKey=VID_MEDIACOM_NA_DELL_DCM_VIDEO1&zMoatGSR=1&zMoatADV=9643275&zMoatABH=0&obo=1&rai=ROKU_ADS_APP_ID&oa=[STOREID]&yd=[OMIDPARTNER]&zp=21&app=[APPBUNDLE]&gu=[PAGEURL]&id=0&ii=11&cdom=[DOMAIN]&uai=[UNIVERSALADID]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&cs=0 ]]>
+</Impression>
+<Impression>
+<![CDATA[ https://px.moatads.com/pixel.gif?e=0&g=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=30000&hc=1&i=CTV_MEDIACOM_NA_DELL_DCM_VIDEO1&t=1636055318&de=356706669&vz=356706669&d=26657153%3A5853714%3A317535150%3Avast&bo=undefined&bd=undefined&apif=%5bAPIFRAMEWORKS%5d&oa=[STOREID]&zMoatADV=9643275&zMoatABH=0&ott=1&rai=ROKU_ADS_APP_ID&yd=[OMIDPARTNER]&zp=20&dMoatAppStoreURL=[STOREURL]&app=[APPBUNDLE]&uai=[UNIVERSALADID]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&cs=0 ]]>
+</Impression>
+<Impression>
+<![CDATA[ https://dsa.moatads.com/pixel.gif?e=0&g=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=30000&hc=1&i=CTV_MEDIACOM_NA_DELL_DCM_VIDEO1&t=1636055318&de=356706669&vz=356706669&d=26657153%3A5853714%3A317535150%3Avast&bo=undefined&bd=undefined&apif=%5bAPIFRAMEWORKS%5d&oa=[STOREID]&zMoatADV=9643275&zMoatABH=0&ott=1&rai=ROKU_ADS_APP_ID&yd=[OMIDPARTNER]&zp=20&dMoatAppStoreURL=[STOREURL]&app=[APPBUNDLE]&uai=[UNIVERSALADID]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&dMoatAdCount=[ADCOUNT]&dMoatServerSide=[SERVERSIDE]&dMoatServerUA=[SERVERUA]&rav=ROKU_ADS_APP_VERSION&rlv=ROKU_ADS_LIB_VERSION&rci=ROKU_ADS_CONTENT_ID&rua=ROKU_ADS_USER_AGENT&rdm=ROKU_ADS_DEVICE_MODEL&cs=0 ]]>
+</Impression>
+<Impression>
+<![CDATA[ https://v.dlx.addthis.com/v/moat.xgi?e=0&ord=1636055318&r=356706669&ott=1&i=CTV_MEDIACOM_NA_DELL_DCM_VIDEO1&m=1&dc=1&mi=[IFA]&cid=77&pcact=mediacomnadelldcmvideo913154128956&caid=26657153&sid=Adobe%20Ads%20TubeMogul&pid=317535150&crid=vast&advid=9643275&cs=0 ]]>
+</Impression>
+<VASTAdTagURI>
+<![CDATA[ https://ad.doubleclick.net/ddm/pfadx/N1153793.3421124ADOBEADCLOUD-DIS/B26657153.317535150;sz=0x0;ord=356706669;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;dcmt=text/xml;dc_sdk_apis=[APIFRAMEWORKS];dc_omid_p=[OMIDPARTNER];gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd= ]]>
+</VASTAdTagURI>
+<Creatives>
+<Creative>
+<Linear>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[ https://px.moatads.com/pixel.gif?e=29&g=1&q=0&lo=0&dc=1&ak=-&ac=1&bq=7&as=0&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&f=0&gh=1&gi=1&gf=1&dh=30000&hc=1&i=CTV_MEDIACOM_NA_DELL_DCM_VIDEO1&t=1636055318&de=356706669&vz=356706669&d=26657153%3A5853714%3A317535150%3Avast&bo=undefined&bd=undefined&apif=%5bAPIFRAMEWORKS%5d&oa=[STOREID]&zMoatADV=9643275&zMoatABH=0&ott=1&rai=ROKU_ADS_APP_ID&yd=[OMIDPARTNER]&zp=20&dMoatAppStoreURL=[STOREURL]&app=[APPBUNDLE]&uai=[UNIVERSALADID]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&cs=0 ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://px.moatads.com/pixel.gif?e=29&g=2&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=30000&hc=1&i=CTV_MEDIACOM_NA_DELL_DCM_VIDEO1&t=1636055318&de=356706669&vz=356706669&d=26657153%3A5853714%3A317535150%3Avast&bo=undefined&bd=undefined&apif=%5bAPIFRAMEWORKS%5d&oa=[STOREID]&zMoatADV=9643275&zMoatABH=0&ott=1&rai=ROKU_ADS_APP_ID&yd=[OMIDPARTNER]&zp=20&dMoatAppStoreURL=[STOREURL]&app=[APPBUNDLE]&uai=[UNIVERSALADID]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&cs=0 ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://px.moatads.com/pixel.gif?e=29&g=3&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=30000&hc=1&i=CTV_MEDIACOM_NA_DELL_DCM_VIDEO1&t=1636055318&de=356706669&vz=356706669&d=26657153%3A5853714%3A317535150%3Avast&bo=undefined&bd=undefined&apif=%5bAPIFRAMEWORKS%5d&oa=[STOREID]&zMoatADV=9643275&zMoatABH=0&ott=1&rai=ROKU_ADS_APP_ID&yd=[OMIDPARTNER]&zp=20&dMoatAppStoreURL=[STOREURL]&app=[APPBUNDLE]&uai=[UNIVERSALADID]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&cs=0 ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://px.moatads.com/pixel.gif?e=29&g=4&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=30000&hc=1&i=CTV_MEDIACOM_NA_DELL_DCM_VIDEO1&t=1636055318&de=356706669&vz=356706669&d=26657153%3A5853714%3A317535150%3Avast&bo=undefined&bd=undefined&apif=%5bAPIFRAMEWORKS%5d&oa=[STOREID]&zMoatADV=9643275&zMoatABH=0&ott=1&rai=ROKU_ADS_APP_ID&yd=[OMIDPARTNER]&zp=20&dMoatAppStoreURL=[STOREURL]&app=[APPBUNDLE]&uai=[UNIVERSALADID]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&cs=0 ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://px.moatads.com/pixel.gif?e=29&g=5&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=30000&hc=1&i=CTV_MEDIACOM_NA_DELL_DCM_VIDEO1&t=1636055318&de=356706669&vz=356706669&d=26657153%3A5853714%3A317535150%3Avast&bo=undefined&bd=undefined&apif=%5bAPIFRAMEWORKS%5d&oa=[STOREID]&zMoatADV=9643275&zMoatABH=0&ott=1&rai=ROKU_ADS_APP_ID&yd=[OMIDPARTNER]&zp=20&dMoatAppStoreURL=[STOREURL]&app=[APPBUNDLE]&uai=[UNIVERSALADID]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&cs=0 ]]>
+</Tracking>
+</TrackingEvents>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions>
+<Extension type="AdVerifications">
+<AdVerifications>
+<Verification vendor="moat.com-mediacomnadelldcmvideo913154128956">
+<JavaScriptResource apiFramework="omid" browserOptional="true">
+<![CDATA[ https://z.moatads.com/mediacomnadelldcmvideo913154128956/moatvideo.js ]]>
+</JavaScriptResource>
+<VerificationParameters>
+<![CDATA[ {"moatClientLevel4":"vast","zMoatADV":"9643275","moatClientLevel1":"26657153","moatClientLevel2":"5853714","moatClientLevel3":"317535150","zMoatABH":"0","apif":"[APIFRAMEWORKS]","vz":"356706669"} ]]>
+</VerificationParameters>
+</Verification>
+</AdVerifications>
+</Extension>
+</Extensions>
+</Wrapper>
+</Ad>
+</VAST>
