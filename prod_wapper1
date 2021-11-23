@@ -1,0 +1,50 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+<Ad id="t3SCpFjy0SKNvWkPiZUm">
+<Wrapper>
+<AdSystem version="1.0">PlayTime RTB</AdSystem>
+<Error>
+<![CDATA[ https://statsf-tm.everesttech.net/stats/1/playererror?cpKey=jq3XVcsTc23e5nZIxqTk&mpKey=02Y1PMZamgkNvlDr0DHn&adKey=t3SCpFjy0SKNvWkPiZUm&sessId=preview&service=adserver&errorcode=[ERRORCODE]&s=H4sIAAAAAAAAAAHAAD__rudAtaJ5QaIHhcc0ucnUjGZTt2c5aBz6oge_Fuy4wPVhi_8RTanWCUsHIZYsMsuo1_yWnqgujrT-Wgq8ODLFs0iwMGGWhKqE5Bst5iRzQYgzc_-ciu2lY0YT14NvVZP1C9AN_GPuuyy9aMd7Uzm1vUdbcPx6N2RZEJRUBTQrZlmKG4pFP6lXmsUor65m6Ve-jpOEu1E8DzDcFJxX83Zqe38NidcrkNqak0AcUIlonWfx0jrdPTp7yBO-d_CxGzt02Mi4-MAAAAA ]]>
+</Error>
+<Impression>
+<![CDATA[ https://playtime-tm.everesttech.net/audit/e.png?event=view&cpKey=jq3XVcsTc23e5nZIxqTk&mpKey=02Y1PMZamgkNvlDr0DHn&adKey=t3SCpFjy0SKNvWkPiZUm&psId=&rand=1308839538 ]]>
+</Impression>
+<Impression>
+<![CDATA[ https://statsf-tm.everesttech.net/stats/1/imp?sessId=preview&cpKey=jq3XVcsTc23e5nZIxqTk&mpKey=02Y1PMZamgkNvlDr0DHn&adKey=t3SCpFjy0SKNvWkPiZUm&seller_id=&campaignKey=uAJ6JVW93m3eRIENe47F&eaId=508430719&eaName=In-Stream+Video&dur=15&date=1637652518053&auth=1b88cfac4a4539ce39111211b87f7764&psId=&price=&bi=&PG=F&inc=view&vinst=f&env=&conn=null&s=H4sIAAAAAAAAAAHAAD__1QZM3In1Vq9uP9EC4rkyMhF1flBg-d7iBWyijxpKeVp-jBHiBJn7tcPuYjUv1JfyeYynqn8mmS5KHZwSNldz1F-Y2WDY8qxLHepvBOs6H44c44J9rOMUSDuzI14tnJJPcESDtnlxpOxt_Kk1oOKrr-uhZ1B34_Y4kYoifww6hQEApJxjYMZJysIqVdwkww8vhdffT1ITv01PXdgBM6hNYFfoNoN4r88l7VkBiUt-cO8AkgdE9WKO8zN_LiFJVUKlKm4poMAAAAA ]]>
+</Impression>
+<Creatives>
+<Creative id="t3SCpFjy0SKNvWkPiZUm" AdID="158929320-1">
+<Linear>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[ https://statsf-tm.everesttech.net/stats/1/pct25?sessId=preview&cpKey=jq3XVcsTc23e5nZIxqTk&mpKey=02Y1PMZamgkNvlDr0DHn&adKey=t3SCpFjy0SKNvWkPiZUm&seller_id=&campaignKey=uAJ6JVW93m3eRIENe47F&eaId=508430719&eaName=In-Stream+Video&psId=&pvId=QILqAWyHcSGfD3dLls8o&date=1637652518053&dur=15&auth=1b88cfac4a4539ce39111211b87f7764&price=&bi=&PG=F&env=&conn=null&s=H4sIAAAAAAAAAAHAAD__1QZM3In1Vq9uP9EC4rkyMhF1flBg-d7iBWyijxpKeVp-jBHiBJn7tcPuYjUv1JfyeYynqn8mmS5KHZwSNldz1F-Y2WDY8qxLHepvBOs6H44c44J9rOMUSDuzI14tnJJPcESDtnlxpOxt_Kk1oOKrr-uhZ1B34_Y4kYoifww6hQEApJxjYMZJysIqVdwkww8vhdffT1ITv01PXdgBM6hNYFfoNoN4r88l7VkBiUt-cO8AkgdE9WKO8zN_LiFJVUKlKm4poMAAAAA ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://statsf-tm.everesttech.net/stats/1/pct50?sessId=preview&cpKey=jq3XVcsTc23e5nZIxqTk&mpKey=02Y1PMZamgkNvlDr0DHn&adKey=t3SCpFjy0SKNvWkPiZUm&seller_id=&campaignKey=uAJ6JVW93m3eRIENe47F&eaId=508430719&eaName=In-Stream+Video&psId=&pvId=QILqAWyHcSGfD3dLls8o&date=1637652518053&dur=15&auth=1b88cfac4a4539ce39111211b87f7764&price=&bi=&PG=F&env=&conn=null&s=H4sIAAAAAAAAAAHAAD__1QZM3In1Vq9uP9EC4rkyMhF1flBg-d7iBWyijxpKeVp-jBHiBJn7tcPuYjUv1JfyeYynqn8mmS5KHZwSNldz1F-Y2WDY8qxLHepvBOs6H44c44J9rOMUSDuzI14tnJJPcESDtnlxpOxt_Kk1oOKrr-uhZ1B34_Y4kYoifww6hQEApJxjYMZJysIqVdwkww8vhdffT1ITv01PXdgBM6hNYFfoNoN4r88l7VkBiUt-cO8AkgdE9WKO8zN_LiFJVUKlKm4poMAAAAA ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://statsf-tm.everesttech.net/stats/1/pct75?sessId=preview&cpKey=jq3XVcsTc23e5nZIxqTk&mpKey=02Y1PMZamgkNvlDr0DHn&adKey=t3SCpFjy0SKNvWkPiZUm&seller_id=&campaignKey=uAJ6JVW93m3eRIENe47F&eaId=508430719&eaName=In-Stream+Video&psId=&pvId=QILqAWyHcSGfD3dLls8o&date=1637652518053&dur=15&auth=1b88cfac4a4539ce39111211b87f7764&price=&bi=&PG=F&env=&conn=null&s=H4sIAAAAAAAAAAHAAD__1QZM3In1Vq9uP9EC4rkyMhF1flBg-d7iBWyijxpKeVp-jBHiBJn7tcPuYjUv1JfyeYynqn8mmS5KHZwSNldz1F-Y2WDY8qxLHepvBOs6H44c44J9rOMUSDuzI14tnJJPcESDtnlxpOxt_Kk1oOKrr-uhZ1B34_Y4kYoifww6hQEApJxjYMZJysIqVdwkww8vhdffT1ITv01PXdgBM6hNYFfoNoN4r88l7VkBiUt-cO8AkgdE9WKO8zN_LiFJVUKlKm4poMAAAAA ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://statsf-tm.everesttech.net/stats/1/pct100?sessId=preview&cpKey=jq3XVcsTc23e5nZIxqTk&mpKey=02Y1PMZamgkNvlDr0DHn&adKey=t3SCpFjy0SKNvWkPiZUm&seller_id=&campaignKey=uAJ6JVW93m3eRIENe47F&eaId=508430719&eaName=In-Stream+Video&psId=&pvId=QILqAWyHcSGfD3dLls8o&date=1637652518053&dur=15&auth=1b88cfac4a4539ce39111211b87f7764&price=&bi=&PG=F&env=&conn=null&s=H4sIAAAAAAAAAAHAAD__1QZM3In1Vq9uP9EC4rkyMhF1flBg-d7iBWyijxpKeVp-jBHiBJn7tcPuYjUv1JfyeYynqn8mmS5KHZwSNldz1F-Y2WDY8qxLHepvBOs6H44c44J9rOMUSDuzI14tnJJPcESDtnlxpOxt_Kk1oOKrr-uhZ1B34_Y4kYoifww6hQEApJxjYMZJysIqVdwkww8vhdffT1ITv01PXdgBM6hNYFfoNoN4r88l7VkBiUt-cO8AkgdE9WKO8zN_LiFJVUKlKm4poMAAAAA ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://statsf-tm.everesttech.net/stats/1/vimp?sessId=preview&cpKey=jq3XVcsTc23e5nZIxqTk&mpKey=02Y1PMZamgkNvlDr0DHn&adKey=t3SCpFjy0SKNvWkPiZUm&seller_id=&campaignKey=uAJ6JVW93m3eRIENe47F&psId=&date=1637652518053&dur=15&auth=1b88cfac4a4539ce39111211b87f7764&vpct=100&vinst=f&vwbl=f&bi=&PG=F&env=&conn=null&s=H4sIAAAAAAAAAAHAAD__1QZM3In1Vq9uP9EC4rkyMhF1flBg-d7iBWyijxpKeVp-jBHiBJn7tcPuYjUv1JfyeYynqn8mmS5KHZwSNldz1F-Y2WDY8qxLHepvBOs6H44c44J9rOMUSDuzI14tnJJPcESDtnlxpOxt_Kk1oOKrr-uhZ1B34_Y4kYoifww6hQEApJxjYMZJysIqVdwkww8vhdffT1ITv01PXdgBM6hNYFfoNoN4r88l7VkBiUt-cO8AkgdE9WKO8zN_LiFJVUKlKm4poMAAAAA ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://playtime-tm.everesttech.net/audit/e.png?event=comp&cpKey=jq3XVcsTc23e5nZIxqTk&mpKey=02Y1PMZamgkNvlDr0DHn&adKey=t3SCpFjy0SKNvWkPiZUm&psId=&rand=1308839538 ]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickTracking>
+<![CDATA[ https://statsf-tm.everesttech.net/stats/1/ct?sessId=preview&cpKey=jq3XVcsTc23e5nZIxqTk&mpKey=02Y1PMZamgkNvlDr0DHn&adKey=t3SCpFjy0SKNvWkPiZUm&seller_id=&campaignKey=uAJ6JVW93m3eRIENe47F&psId=&pvId=QILqAWyHcSGfD3dLls8o&sId=0&dur=15&eaId=508430719&eaName=In-Stream+Video&redir=&date=1637652518053&auth=1b88cfac4a4539ce39111211b87f7764&price=&bi=&PG=F&stch_id=YTOiyAAEQFGq8wAC&env=&conn=null&s=H4sIAAAAAAAAAAHAAD__1QZM3In1Vq9uP9EC4rkyMhF1flBg-d7iBWyijxpKeVp-jBHiBJn7tcPuYjUv1JfyeYynqn8mmS5KHZwSNldz1F-Y2WDY8qxLHepvBOs6H44c44J9rOMUSDuzI14tnJJPcESDtnlxpOxt_Kk1oOKrr-uhZ1B34_Y4kYoifww6hQEApJxjYMZJysIqVdwkww8vhdffT1ITv01PXdgBM6hNYFfoNoN4r88l7VkBiUt-cO8AkgdE9WKO8zN_LiFJVUKlKm4poMAAAAA ]]>
+</ClickTracking>
+</VideoClicks>
+</Linear>
+</Creative>
+</Creatives>
+<VASTAdTagURI>
+<![CDATA[ https://ad.doubleclick.net/ddm/pfadx/N1153793.3421124ADOBEADCLOUD-DIS/B26549905.315303270;dc_vpaid=0;dc_3p=tube;sz=0x0;ord=%5btimestamp%5d;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;dcmt=text/xml;dc_sdk_apis=7;dc_omid_p=%5bOMIDPARTNER%5d;gdpr=$%7bGDPR%7d;gdpr_consent=$%7bGDPR_CONSENT_755%7d;ltd= ]]>
+</VASTAdTagURI>
+</Wrapper>
+</Ad>
+</VAST>
