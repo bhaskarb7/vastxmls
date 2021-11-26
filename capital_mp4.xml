@@ -1,0 +1,82 @@
+<VAST xmlns:MM="https://api.mediamind.com/V1/DataContracts" version="2.0">
+<Ad id="1077369468">
+<InLine>
+<AdSystem>
+<![CDATA[ MediaMind ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ LL37_Black Friday_Hannukkah_RT_v2 ]]>
+</AdTitle>
+<Description>
+<![CDATA[ LL37_Black Friday_Hannukkah_RT_v2 ]]>
+</Description>
+<Impression id="Impression">
+<![CDATA[ https://bs.serving-sys.com/Serving/adServer.bs?cn=display&pl=VAST&optOut=0&pos=2209&c=24&ai=1085588021&pluid=0&gdpr_consent=&gdpr=&ord=2101406493309260223&dg=1076595859&sdg=1077304931&ta=-1&usercookie=u2=e4f9d664-e65b-48b6-9897-8b5de81cf2ca&sessionid=8015217342261869892&pcp=&vurl= ]]>
+</Impression>
+<Creatives>
+<Creative id="1085588021" AdID="1085588021" sequence="1">
+<Linear>
+<Duration>00:00:12</Duration>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[ https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1085588021%7E%7E0%7E%7E%7E%5ECreativeView.Linear.2086138225%7E0%7E2086138225%7E01000&pos=2209&ebRandom=2101406493309260223&dg=1076595859&ta=-1&usercookie=u2=e4f9d664-e65b-48b6-9897-8b5de81cf2ca&gdpr_consent=&gdpr=&sessionid=8015217342261869892 ]]>
+</Tracking>
+<Tracking event="creativeView">
+<![CDATA[ https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&0&interactionsStr=1085588021%7E%7E0%5EebAdStart%7E0%7E0%7E1%7E0%7E1%7E2086138225%7E0&pos=2209&ebRandom=2101406493309260223&dg=1076595859&ta=-1&usercookie=u2=e4f9d664-e65b-48b6-9897-8b5de81cf2ca&gdpr_consent=&gdpr=&sessionid=8015217342261869892 ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1085588021%7E%7E0%7E%7E%7E%5EebVideoStarted%7E0%7E2086138225%7E01010&pos=2209&ebRandom=2101406493309260223&dg=1076595859&ta=-1&usercookie=u2=e4f9d664-e65b-48b6-9897-8b5de81cf2ca&gdpr_consent=&gdpr=&sessionid=8015217342261869892 ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1085588021%7E%7E0%7E%7E%7E%5Eeb25Per_Played%7E0%7E2086138225%7E01010&pos=2209&ebRandom=2101406493309260223&dg=1076595859&ta=-1&usercookie=u2=e4f9d664-e65b-48b6-9897-8b5de81cf2ca&gdpr_consent=&gdpr=&sessionid=8015217342261869892 ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1085588021%7E%7E0%7E%7E%7E%5Eeb50Per_Played%7E0%7E2086138225%7E01010&pos=2209&ebRandom=2101406493309260223&dg=1076595859&ta=-1&usercookie=u2=e4f9d664-e65b-48b6-9897-8b5de81cf2ca&gdpr_consent=&gdpr=&sessionid=8015217342261869892 ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1085588021%7E%7E0%7E%7E%7E%5Eeb75Per_Played%7E0%7E2086138225%7E01010&pos=2209&ebRandom=2101406493309260223&dg=1076595859&ta=-1&usercookie=u2=e4f9d664-e65b-48b6-9897-8b5de81cf2ca&gdpr_consent=&gdpr=&sessionid=8015217342261869892 ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1085588021%7E%7E0%7E%7E%7E%5EebVideoFullPlay%7E0%7E2086138225%7E01010&pos=2209&ebRandom=2101406493309260223&dg=1076595859&ta=-1&usercookie=u2=e4f9d664-e65b-48b6-9897-8b5de81cf2ca&gdpr_consent=&gdpr=&sessionid=8015217342261869892 ]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[ https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1085588021%7E%7E0%7E%7E%7E%5EebVideoMute%7E0%7E2086138225%7E01110&pos=2209&ebRandom=2101406493309260223&dg=1076595859&ta=-1&usercookie=u2=e4f9d664-e65b-48b6-9897-8b5de81cf2ca&gdpr_consent=&gdpr=&sessionid=8015217342261869892 ]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[ https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1085588021%7E%7E0%7E%7E%7E%5EebVideoUnmute%7E0%7E2086138225%7E01110&pos=2209&ebRandom=2101406493309260223&dg=1076595859&ta=-1&usercookie=u2=e4f9d664-e65b-48b6-9897-8b5de81cf2ca&gdpr_consent=&gdpr=&sessionid=8015217342261869892 ]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[ https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1085588021%7E%7E0%7E%7E%7E%5EebVideoPause%7E0%7E2086138225%7E01110&pos=2209&ebRandom=2101406493309260223&dg=1076595859&ta=-1&usercookie=u2=e4f9d664-e65b-48b6-9897-8b5de81cf2ca&gdpr_consent=&gdpr=&sessionid=8015217342261869892 ]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[ https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1085588021%7E%7E0%7E%7E%7E%5EebFSStart%7E0%7E2086138225%7E01110&pos=2209&ebRandom=2101406493309260223&dg=1076595859&ta=-1&usercookie=u2=e4f9d664-e65b-48b6-9897-8b5de81cf2ca&gdpr_consent=&gdpr=&sessionid=8015217342261869892 ]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://bs.serving-sys.com/Serving/adServer.bs?cn=isi&pl=VAST&optOut=0&iv=2&interactionsStr=1085588021%7E%7E0%7E%7E%7E%5EClick.Linear.2086138225%7E0%7E2086138225%7E11100&pos=2209&ebRandom=2101406493309260223&dg=1076595859&ta=-1&usercookie=u2=e4f9d664-e65b-48b6-9897-8b5de81cf2ca&gdpr_consent=&gdpr=&sessionid=8015217342261869892&rtu=$$https://play.luckylandslots.com/?utm_source=Adobe&utm_medium=video&utm_campaign=bau&utm_content=LL37_12s$$ ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="2086138227" height="360" width="640" bitrate="823" type="video/mp4" delivery="progressive" maintainAspectRatio="true" scalable="true">
+<![CDATA[ https://secure-ds.serving-sys.com/resources/PROD/asset/1073743366/VIDEO/20211125/LL37_Black%20Friday_Hannukkah_RT_v2_66911815091622773.MP4 ]]>
+</MediaFile>
+<MediaFile id="2086138228" height="576" width="1024" bitrate="1317" type="video/mp4" delivery="progressive" maintainAspectRatio="true" scalable="true">
+<![CDATA[ https://secure-ds.serving-sys.com/resources/PROD/asset/1073743366/VIDEO/20211125/LL37_Black%20Friday_Hannukkah_RT_v2_66911814823187310.MP4 ]]>
+</MediaFile>
+<MediaFile id="2086138229" height="1080" width="1920" bitrate="19219" type="video/mp4" delivery="progressive" maintainAspectRatio="true" scalable="true">
+<![CDATA[ https://secure-ds.serving-sys.com/resources/PROD/asset/1073743366/VIDEO/20211125/LL37_Black%20Friday_Hannukkah_RT_v2_66911815360058235.MP4 ]]>
+</MediaFile>
+<MediaFile id="2086138230" height="720" width="1280" bitrate="2207" type="video/mp4" delivery="progressive" maintainAspectRatio="true" scalable="true">
+<![CDATA[ https://secure-ds.serving-sys.com/resources/PROD/asset/1073743366/VIDEO/20211125/LL37_Black%20Friday_Hannukkah_RT_v2_66911815091622776.MP4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+<Creative id="1085588021" AdID="1085588021" sequence="1">
+<CompanionAds/>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
